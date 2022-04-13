@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accentColor">#03A9F4</color>
+    <color name="black">#FF000000</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="primaryColor">#2196F3</color>
+    <color name="primaryDarkColor">#1976D2</color>
+    <color name="primaryLightColor">#BBDEFB</color>
+    <color name="text">#F85F6A</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="image_header_dimen">100dp</dimen>
+    <dimen name="image_header_top_margin">50dp</dimen>
+    <dimen name="login_button_margin">16dp</dimen>
+    <dimen name="login_layout_padding">8dp</dimen>
+    <dimen name="login_layout_padding_top">36dp</dimen>
+    <string name="app_name">Child Monitoring</string>
+    <string name="default_web_client_id" translatable="false">961206466277-f52og204clvjrqhcmvju478qp69vb5q7.apps.googleusercontent.com</string>
+    <string name="forgotPwText">Enter the email associated with your account and we\'ll send an email with instructions to reset your password.</string>
+    <string name="gcm_defaultSenderId" translatable="false">961206466277</string>
+    <string name="google_api_key" translatable="false">AIzaSyDksOt-qS2MxfpWv3ecfTx1mKsC_gUmMgU</string>
+    <string name="google_app_id" translatable="false">1:961206466277:android:7743a8603dcba43c3c060c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDksOt-qS2MxfpWv3ecfTx1mKsC_gUmMgU</string>
+    <string name="google_storage_bucket" translatable="false">capstone-21e08.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_close">Close</string>
+    <string name="nav_open">Open</string>
+    <string name="plansText">Enter the email associated with your account and we\'ll send an email with instructions on how to upgrade your plan.</string>
+    <string name="project_id" translatable="false">capstone-21e08</string>
+    <style name="Theme.CapstoneProject" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/primaryDarkColor</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/primaryColor</item>
+        <item name="colorSecondaryVariant">@color/primaryDarkColor</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/dividerColor</item>
+
+    </style>
+</resources>

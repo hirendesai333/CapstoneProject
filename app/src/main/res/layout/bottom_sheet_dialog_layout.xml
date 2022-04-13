@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:layout_margin="30dp"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/home"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/primaryColor"
+        android:textColor="@color/white"
+        android:text="Home"/>
+
+    <Button
+        android:id="@+id/reports"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/primaryColor"
+        android:textColor="@color/white"
+        android:text="Reports"/>
+
+    <Button
+        android:id="@+id/profile"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/primaryColor"
+        android:textColor="@color/white"
+        android:text="Profile"/>
+
+    <Button
+        android:id="@+id/settings"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/primaryColor"
+        android:textColor="@color/white"
+        android:text="Settings"/>
+
+    <Button
+        android:id="@+id/aboutUs"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/primaryColor"
+        android:textColor="@color/white"
+        android:text="About Us"/>
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/primaryColor"
+        android:textColor="@color/white"
+        android:text="Logout"/>
+
+</LinearLayout>

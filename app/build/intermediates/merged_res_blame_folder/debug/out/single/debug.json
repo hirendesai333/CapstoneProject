@@ -1,0 +1,362 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_settings.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_whatsapp.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\whatsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_registration.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\layout\\fragment_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\anim_translate_scale_shift_left.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\anim\\translate_scale_shift_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_home.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\font_asap_regular.ttf.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\font\\asap_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_facebook.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_reports.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\reports.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_back.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\back.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\anim_hold.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\layout_alert_label_editor.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\layout\\alert_label_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\menu_os_menu.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\menu\\os_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_notification.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_snapchat.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\snapchat.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\layout_bottom_sheet_dialog_layout.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\layout\\bottom_sheet_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_logotwo.jpeg.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\logotwo.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_diamond.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\diamond.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\font_quicksand_light.ttf.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\font\\quicksand_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_close.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\close.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\font_asap_bold.ttf.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\font\\asap_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_location.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\location.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo.jpeg.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\logo.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\layout_upgrade_label_editor.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\layout\\upgrade_label_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_logothree.jpeg.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\logothree.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_chart.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_eye.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\eye.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_childlocation.jpg.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\childlocation.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_edit_profile.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\layout\\fragment_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_report.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\layout\\fragment_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_pubg.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\pubg.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\font_asap_semibold.ttf.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\font\\asap_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_darklogo.jpg.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable-v24\\darklogo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\anim_translate_scale.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\anim\\translate_scale.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\layout_item_child.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\layout\\item_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\layout_item_childactivity.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\layout\\item_childactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_apps.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\apps.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_menu.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_report.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\report.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\font_quicksand_regular.ttf.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\font\\quicksand_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_edit_profile.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_ludo.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\ludo.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\font_quicksand_bold.ttf.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\font\\quicksand_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_profile.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_youtube.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\youtube.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_child.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\layout\\activity_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_plus.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable-v24\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_phone.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_forward.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_child.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\layout\\fragment_child.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_txt_password.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\bg_txt_password.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_notification.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\layout\\fragment_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_logout.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_txt_username.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\bg_txt_username.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_github_logo.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\github_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\anim_translate_scale_rotate.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\anim\\translate_scale_rotate.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_add_profile.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\layout\\fragment_add_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_instagram.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_applogo.jpg.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\applogo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_profile.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\layout\\activity_add_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_teen.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable-v24\\teen.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_notifications.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_message.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\message.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\anim_translate_from_top_right.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\anim\\translate_from_top_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\menu_navigation_menu.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\menu\\navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\font_quicksand_semibold.ttf.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\font\\quicksand_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_games.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\drawable\\games.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_upgrade_plan.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\layout\\activity_upgrade_plan.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_credentials.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\layout\\activity_credentials.xml"
+    }
+]

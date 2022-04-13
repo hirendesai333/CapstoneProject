@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Child Monitoring</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="forgotPwText">Enter the email associated with your account and we\'ll send an email with instructions to reset your password.</string>
+    <string name="plansText">Enter the email associated with your account and we\'ll send an email with instructions on how to upgrade your plan.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
