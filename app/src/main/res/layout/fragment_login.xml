@@ -89,7 +89,7 @@
                 android:padding="16dp"
                 android:text="Sign in" />
 
-            <TextView
+            <!--<TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
@@ -98,7 +98,6 @@
                 android:text="or use one of your social profiles"
                 android:textAlignment="center"
                 android:textSize="16sp" />
-
 
             <androidx.appcompat.widget.LinearLayoutCompat
                 android:layout_width="match_parent"
@@ -126,7 +125,7 @@
                     android:padding="16dp"
                     android:text="Facebook" />
 
-            </androidx.appcompat.widget.LinearLayoutCompat>
+            </androidx.appcompat.widget.LinearLayoutCompat>-->
 
             <androidx.appcompat.widget.LinearLayoutCompat
                 android:layout_width="match_parent"

@@ -42,7 +42,7 @@ import java.util.ArrayList;
 
 public class HomeFragment extends Fragment {
 
-    public ImageView hamMenu, notification, addProfile;
+    public ImageView hamMenu, notification;
     public Button btn1, btn2, upgradePlanBtn;
 
     ChildAdapter childAdapter;
@@ -67,19 +67,13 @@ public class HomeFragment extends Fragment {
                              Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_home, container, false);
 
-        hamMenu = view.findViewById(R.id.ham_menu);
         notification = view.findViewById(R.id.notificationBtn);
-        btn1 = view.findViewById(R.id.activityBtn1);
-        btn2 = view.findViewById(R.id.activityBtn2);
-        addProfile = view.findViewById(R.id.addChildProfile);
         upgradePlanBtn = view.findViewById(R.id.upgradeNowBtn);
         upgradePlanBtn.setOnClickListener(view1 -> startAnotherActivity(UpgradePlanActivity.class));
 
         AddProfileFragment addProfileFragment = new AddProfileFragment();
         NotificationFragment notificationFragment = new NotificationFragment();
         ChildFragment childFragment = new ChildFragment();
-
-        addProfile.setOnClickListener(view2 -> startAnotherActivity(AddProfileActivity.class));
 
         notification.setOnClickListener(v -> replaceFragment(notificationFragment));
 //        btn1.setOnClickListener(v -> startAnotherActivity(ChildActivity.class));

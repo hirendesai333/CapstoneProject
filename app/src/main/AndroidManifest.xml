@@ -34,16 +34,10 @@
             android:name=".Activities.AddProfileActivity"
             android:exported="false" />
         <activity
-            android:name=".Activities.EditProfileActivity"
-            android:exported="false" />
-        <activity
             android:name=".Activities.NotificationActivity"
             android:exported="false" />
         <activity
             android:name=".Activities.ChildActivity"
-            android:exported="true" />
-        <activity
-            android:name=".Activities.HomeActivity"
             android:exported="true" />
     </application>
 

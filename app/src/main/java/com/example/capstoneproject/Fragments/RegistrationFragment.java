@@ -5,7 +5,6 @@ import static android.content.Context.MODE_PRIVATE;
 import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.graphics.Color;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
@@ -19,9 +18,6 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.capstoneproject.Activities.HomeActivity;
-import com.example.capstoneproject.Activities.MainActivity;
-import com.example.capstoneproject.DataClass.User;
 import com.example.capstoneproject.R;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;

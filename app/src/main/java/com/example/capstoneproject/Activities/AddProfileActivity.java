@@ -1,7 +1,9 @@
 package com.example.capstoneproject.Activities;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
@@ -15,9 +17,13 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
 import com.application.isradeleon.notify.Notify;
+import com.example.capstoneproject.DataClass.Child;
 import com.example.capstoneproject.R;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 
 public class AddProfileActivity extends AppCompatActivity {
 
@@ -26,6 +32,7 @@ public class AddProfileActivity extends AppCompatActivity {
 
     Button addChild;
     SharedPreferences sp;
+
     //firebase variables
     FirebaseDatabase firebaseDatabase;
     DatabaseReference databaseReference;
@@ -33,6 +40,7 @@ public class AddProfileActivity extends AppCompatActivity {
     ImageView back;
 
     @Override
+
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_profile);
@@ -51,28 +59,46 @@ public class AddProfileActivity extends AppCompatActivity {
         addChild.setOnClickListener(view -> {
             usernameStr = username.getText().toString();
             emailStr = email.getText().toString();
-            addDataToFirebase(usernameStr, emailStr);
-            Log.d("test", usernameStr + emailStr);
 
-            Intent myIntent = new Intent(AddProfileActivity.this, MainActivity.class);
-            startActivity(myIntent);
+            DatabaseReference root = FirebaseDatabase.getInstance().getReference();
+            DatabaseReference users = root.child("ChildUsers");
+            users.addListenerForSingleValueEvent(new ValueEventListener() {
+                @Override
+                public void onDataChange(@NonNull DataSnapshot snapshot) {
+                    if (snapshot.child(usernameStr).exists()) {
+                        // run some code
+                        addDataToFirebase(usernameStr, emailStr);
+                        showNofitication();
+                        startAnotherActivity(MainActivity.class);
+                    } else {
+                        Toast.makeText(AddProfileActivity.this,
+                                usernameStr + " does not exists in the database please try again!",
+                                Toast.LENGTH_SHORT).show();
+                    }
+                }
 
-            Notify.build(getApplicationContext())
-                    .setTitle("Child Added!")
-                    .setContent(usernameStr + " has been added to the list!")
-//                    .setSmallIcon(R.drawable.ic_notifications_none_white_24dp)
-                    .setColor(R.color.text)
-                    .largeCircularIcon()
-                    .show(); // Show notification
+                @Override
+                public void onCancelled(@NonNull DatabaseError databaseError) {
+
+                }
+            });
         });
 
     }
 
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        MenuInflater inflater = new MenuInflater(this);
-        inflater.inflate(R.menu.os_menu, menu);
-        return true;
+    public void showNofitication() {
+        Notify.build(getApplicationContext())
+                .setTitle("Child Added!")
+                .setContent(usernameStr + " has been added to the list!")
+//                    .setSmallIcon(R.drawable.ic_notifications_none_white_24dp)
+                .setColor(R.color.text)
+                .largeCircularIcon()
+                .show(); // Show notification
+    }
+
+    public void startAnotherActivity(Class className) {
+        Intent myIntent = new Intent(this, className);
+        startActivity(myIntent);
     }
 
     private void addDataToFirebase(String usernameDB, String emailDB) {

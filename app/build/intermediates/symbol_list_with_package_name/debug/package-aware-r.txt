@@ -2642,6 +2642,7 @@ drawable github_logo
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable home
+drawable ic_baseline_add_24
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -2710,6 +2711,7 @@ drawable profile
 drawable pubg
 drawable report
 drawable reports
+drawable rounded_corner
 drawable settings
 drawable snapchat
 drawable teen
@@ -2717,6 +2719,7 @@ drawable test_custom_background
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable transparent_background
 drawable whatsapp
 drawable youtube
 font asap_bold
@@ -2797,13 +2800,10 @@ id action_mode_bar_stub
 id action_mode_close_button
 id action_text
 id actions
-id activityBtn1
-id activityBtn2
 id activityList
 id activity_chooser_view_content
 id activity_splash_screen
 id add
-id addChildProfile
 id addProfileBtn
 id adjust_height
 id adjust_width
@@ -2832,9 +2832,9 @@ id beginning
 id bestChoice
 id blocking
 id bottom
-id bottomBtn
+id bottomAppBar
+id bottomNavigaitonView
 id bottom_left
-id bottom_navigation
 id bottom_right
 id bounce
 id bounceBoth
@@ -2947,6 +2947,7 @@ id etUsername
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
+id fab
 id fade
 id fill
 id fill_horizontal
@@ -2976,7 +2977,6 @@ id group_divider
 id grouping
 id groups
 id guideline
-id ham_menu
 id header_icon
 id header_title
 id hideable
@@ -3080,7 +3080,6 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
-id my_drawer_layout
 id navEmail
 id navUserName
 id nav_controller_view_tag
@@ -3088,7 +3087,7 @@ id nav_home
 id nav_host_fragment_container
 id nav_profile
 id nav_reports
-id navigationView
+id nav_setting
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
 id navigation_bar_item_icon_view
@@ -3112,8 +3111,6 @@ id off
 id on
 id onInterceptTouchReturnSwipe
 id openActivityBtn
-id option_1
-id option_2
 id outline
 id outward
 id oval
@@ -3229,6 +3226,7 @@ id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id tag_window_insets_animation_callback
+id test1
 id test_checkbox_android_button_tint
 id test_checkbox_app_button_tint
 id test_radiobutton_android_button_tint
@@ -3394,8 +3392,6 @@ layout abc_tooltip
 layout activity_add_profile
 layout activity_child
 layout activity_credentials
-layout activity_edit_profile
-layout activity_home
 layout activity_main
 layout activity_notification
 layout activity_splash
@@ -3428,6 +3424,7 @@ layout fragment_login
 layout fragment_notification
 layout fragment_registration
 layout fragment_report
+layout fragment_settings
 layout item_child
 layout item_childactivity
 layout m3_alert_dialog
@@ -3518,7 +3515,6 @@ layout upgrade_label_editor
 menu example_menu
 menu example_menu2
 menu navigation_menu
-menu os_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
@@ -4937,7 +4933,7 @@ styleable ShapeAppearance cornerFamily cornerFamilyBottomLeft cornerFamilyBottom
 styleable ShapeableImageView contentPadding contentPaddingBottom contentPaddingEnd contentPaddingLeft contentPaddingRight contentPaddingStart contentPaddingTop shapeAppearance shapeAppearanceOverlay strokeColor strokeWidth
 styleable SignInButton buttonSize colorScheme scopeUris
 styleable Slider android_enabled android_value android_stepSize android_valueFrom android_valueTo haloColor haloRadius labelBehavior labelStyle thumbColor thumbElevation thumbRadius thumbStrokeColor thumbStrokeWidth tickColor tickColorActive tickColorInactive tickVisible trackColor trackColorActive trackColorInactive trackHeight
-styleable SmoothBottomBar backgroundColor cornerRadius duration iconSize iconTint indicatorColor itemPadding menu activeItem corners iconMargin iconTintActive indicatorRadius itemFontFamily sideMargins textColor textSize
+styleable SmoothBottomBar activeItem backgroundColor cornerRadius corners duration iconMargin iconSize iconTint iconTintActive indicatorColor indicatorRadius itemFontFamily itemPadding menu sideMargins textColor textSize
 styleable Snackbar snackbarButtonStyle snackbarStyle snackbarTextViewStyle
 styleable SnackbarLayout android_maxWidth actionTextColorAlpha animationMode backgroundOverlayColorAlpha backgroundTint backgroundTintMode elevation maxActionInlineWidth
 styleable Spinner android_entries android_popupBackground android_prompt android_dropDownWidth popupTheme

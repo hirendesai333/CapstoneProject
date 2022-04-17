@@ -15,7 +15,7 @@
     <dimen name="login_button_margin">16dp</dimen>
     <dimen name="login_layout_padding">8dp</dimen>
     <dimen name="login_layout_padding_top">36dp</dimen>
-    <string name="app_name">Child Monitoring</string>
+    <string name="app_name">Parent</string>
     <string name="default_web_client_id" translatable="false">961206466277-f52og204clvjrqhcmvju478qp69vb5q7.apps.googleusercontent.com</string>
     <string name="forgotPwText">Enter the email associated with your account and we\'ll send an email with instructions to reset your password.</string>
     <string name="gcm_defaultSenderId" translatable="false">961206466277</string>

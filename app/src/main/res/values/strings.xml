@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Child Monitoring</string>
+    <string name="app_name">Parent</string>
     <string name="nav_open">Open</string>
     <string name="nav_close">Close</string>
     <string name="forgotPwText">Enter the email associated with your account and we\'ll send an email with instructions to reset your password.</string>

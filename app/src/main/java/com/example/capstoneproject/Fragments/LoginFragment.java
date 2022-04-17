@@ -2,14 +2,17 @@ package com.example.capstoneproject.Fragments;
 
 import static android.content.Context.MODE_PRIVATE;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentTransaction;
 
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -19,7 +22,15 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.capstoneproject.Activities.MainActivity;
+import com.example.capstoneproject.DataClass.Child;
 import com.example.capstoneproject.R;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
+
+import java.util.Objects;
 
 
 public class LoginFragment extends Fragment {
@@ -29,6 +40,9 @@ public class LoginFragment extends Fragment {
     public EditText email, password;
 
     public String emailString, passwordString;
+
+    FirebaseDatabase firebaseDatabase;
+    DatabaseReference databaseReference;
 
     public LoginFragment() {
     }
@@ -62,10 +76,29 @@ public class LoginFragment extends Fragment {
         String emailText = (shared.getString("email", ""));
         String passwordText = (shared.getString("password", ""));
 
+        firebaseDatabase = FirebaseDatabase.getInstance();
+        databaseReference = firebaseDatabase.getReference("Users");
+
         loginBtn.setOnClickListener(viewLoginBtn -> {
             emailString = email.getText().toString();
             passwordString = password.getText().toString();
 
+            /*databaseReference.addValueEventListener(new ValueEventListener() {
+                @Override
+                public void onDataChange(@NonNull DataSnapshot snapshot) {
+                    for (DataSnapshot dataSnapshot : snapshot.getChildren()) {
+                        String email = String.valueOf(dataSnapshot.child("hiren333").child("email").getValue());
+
+                        Log.d("test", email);
+                    }
+                }
+
+                @Override
+                public void onCancelled(@NonNull DatabaseError error) {
+
+                }
+            });*/
+            
             if (emailString.equals("") && passwordString.equals("")) {
                 Toast.makeText(this.requireContext(), "Please Enter valid email and password!", Toast.LENGTH_SHORT).show();
                 if ((emailString.equals(""))) {
@@ -90,6 +123,8 @@ public class LoginFragment extends Fragment {
             RegistrationFragment registerFragment = new RegistrationFragment();
             replaceFragment(registerFragment);
         });
+
+
         return view;
     }
 

@@ -15,9 +15,19 @@
         android:title="Reports" />
 
     <item
+        android:id="@+id/test1"
+        android:title="" />
+
+    <item
         android:id="@+id/nav_profile"
         android:checkable="true"
         android:icon="@drawable/profile"
         android:title="Profile" />
+
+    <item
+        android:id="@+id/nav_setting"
+        android:checkable="true"
+        android:icon="@drawable/settings"
+        android:title="Settings" />
 
 </menu>
