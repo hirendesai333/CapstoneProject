@@ -82,22 +82,6 @@ public class LoginFragment extends Fragment {
         loginBtn.setOnClickListener(viewLoginBtn -> {
             emailString = email.getText().toString();
             passwordString = password.getText().toString();
-
-            /*databaseReference.addValueEventListener(new ValueEventListener() {
-                @Override
-                public void onDataChange(@NonNull DataSnapshot snapshot) {
-                    for (DataSnapshot dataSnapshot : snapshot.getChildren()) {
-                        String email = String.valueOf(dataSnapshot.child("hiren333").child("email").getValue());
-
-                        Log.d("test", email);
-                    }
-                }
-
-                @Override
-                public void onCancelled(@NonNull DatabaseError error) {
-
-                }
-            });*/
             
             if (emailString.equals("") && passwordString.equals("")) {
                 Toast.makeText(this.requireContext(), "Please Enter valid email and password!", Toast.LENGTH_SHORT).show();

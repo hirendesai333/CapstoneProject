@@ -21,7 +21,6 @@ import com.example.capstoneproject.R;
 public class EditProfileFragment extends Fragment {
     public TextView mainUsername;
     public EditText username, email;
-    Button logoutBtn;
 
     public EditProfileFragment() {
         // Required empty public constructor
@@ -49,16 +48,6 @@ public class EditProfileFragment extends Fragment {
         mainUsername.setText(usernameText);
         username.setText(usernameText);
         email.setText(emailText);
-
-        logoutBtn = view.findViewById(R.id.logoutBtn);
-        logoutBtn.setOnClickListener(view1 -> {
-            SharedPreferences preferences = requireActivity().getSharedPreferences("Login", MODE_PRIVATE);
-            preferences.edit().remove("email").apply();
-            preferences.edit().remove("password").apply();
-
-            Intent intent = new Intent(requireContext(), CredentialsActivity.class);
-            startActivity(intent);
-        });
 
         return view;
     }

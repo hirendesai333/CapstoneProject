@@ -115,6 +115,7 @@
                     android:textSize="10pt" />
 
                 <Button
+                    android:id="@+id/upgradeNowBtn"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"

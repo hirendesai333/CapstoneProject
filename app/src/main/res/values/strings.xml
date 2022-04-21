@@ -6,5 +6,6 @@
     <string name="plansText">Enter the email associated with your account and we\'ll send an email with instructions on how to upgrade your plan.</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tag">Year 2022 </string>
 
 </resources>

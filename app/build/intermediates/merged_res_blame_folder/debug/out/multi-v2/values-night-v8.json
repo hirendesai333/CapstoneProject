@@ -1,44 +1,29 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Users\\divye\\Desktop\\CapstoneFinal\\CapstoneProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-3\\c9895830927df6cae11c8a749cd54e9b\\transformed\\material-1.6.0-beta01\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\divye\\Desktop\\CapstoneFinal\\CapstoneProject\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,130,241,330,431,538,645,744,847,935,1059,1161,1263,1379,1481,1595,1723,1839,1961,2097,2217,2351,2471,2583,2709,2826,2950,3080,3202,3340,3474,3590",
-                        "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
-                        "endOffsets": "125,236,325,426,533,640,739,842,930,1054,1156,1258,1374,1476,1590,1718,1834,1956,2092,2212,2346,2466,2578,2704,2821,2945,3075,3197,3335,3469,3585,3705"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "819"
                     },
                     "to": {
-                        "startLines": "24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,56,57,58,59,60,61,62,63",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1438,1513,1624,1713,1814,1921,2028,2127,2230,2318,2442,2544,2646,2762,2864,2978,3106,3222,3344,3480,3600,3734,3854,3966,4807,4924,5048,5178,5300,5438,5572,5688",
-                        "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
-                        "endOffsets": "1508,1619,1708,1809,1916,2023,2122,2225,2313,2437,2539,2641,2757,2859,2973,3101,3217,3339,3475,3595,3729,3849,3961,4087,4919,5043,5173,5295,5433,5567,5683,5803"
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "732",
+                        "endLines": "23",
+                        "endColumns": "12",
+                        "endOffsets": "1433"
                     }
                 },
                 {
-                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-3\\d8f743efa2962b3795735896fa5a2f95\\transformed\\neumorphism-0.3.2\\res\\values-night-v8\\values-night-v8.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,123,205,287,383,483,575",
-                        "endColumns": "67,81,81,95,99,91,105",
-                        "endOffsets": "118,200,282,378,478,570,676"
-                    },
-                    "to": {
-                        "startLines": "48,49,50,51,52,53,54",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "4092,4160,4242,4324,4420,4520,4612",
-                        "endColumns": "67,81,81,95,99,91,105",
-                        "endOffsets": "4155,4237,4319,4415,4515,4607,4713"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-3\\f73bb7ba92c974a370fc87fec7127d0d\\transformed\\appcompat-1.4.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\divye\\.gradle\\caches\\transforms-3\\f73bb7ba92c974a370fc87fec7127d0d\\transformed\\appcompat-1.4.1\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -55,22 +40,37 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\divye\\.gradle\\caches\\transforms-3\\d8f743efa2962b3795735896fa5a2f95\\transformed\\neumorphism-0.3.2\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "16",
-                        "endColumns": "12",
-                        "endOffsets": "803"
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,123,205,287,383,483,575",
+                        "endColumns": "67,81,81,95,99,91,105",
+                        "endOffsets": "118,200,282,378,478,570,676"
                     },
                     "to": {
-                        "startLines": "9",
-                        "startColumns": "4",
-                        "startOffsets": "732",
-                        "endLines": "23",
-                        "endColumns": "12",
-                        "endOffsets": "1433"
+                        "startLines": "48,49,50,51,52,53,54",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "4092,4160,4242,4324,4420,4520,4612",
+                        "endColumns": "67,81,81,95,99,91,105",
+                        "endOffsets": "4155,4237,4319,4415,4515,4607,4713"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\divye\\.gradle\\caches\\transforms-3\\c9895830927df6cae11c8a749cd54e9b\\transformed\\material-1.6.0-beta01\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,130,241,330,431,538,645,744,847,935,1059,1161,1263,1379,1481,1595,1723,1839,1961,2097,2217,2351,2471,2583,2709,2826,2950,3080,3202,3340,3474,3590",
+                        "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
+                        "endOffsets": "125,236,325,426,533,640,739,842,930,1054,1156,1258,1374,1476,1590,1718,1834,1956,2092,2212,2346,2466,2578,2704,2821,2945,3075,3197,3335,3469,3585,3705"
+                    },
+                    "to": {
+                        "startLines": "24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,56,57,58,59,60,61,62,63",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1438,1513,1624,1713,1814,1921,2028,2127,2230,2318,2442,2544,2646,2762,2864,2978,3106,3222,3344,3480,3600,3734,3854,3966,4807,4924,5048,5178,5300,5438,5572,5688",
+                        "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
+                        "endOffsets": "1508,1619,1708,1809,1916,2023,2122,2225,2313,2437,2539,2641,2757,2859,2973,3101,3217,3339,3475,3595,3729,3849,3961,4087,4919,5043,5173,5295,5433,5567,5683,5803"
                     }
                 }
             ]

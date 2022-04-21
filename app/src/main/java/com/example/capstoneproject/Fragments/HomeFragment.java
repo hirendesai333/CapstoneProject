@@ -21,6 +21,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.example.capstoneproject.Activities.AddProfileActivity;
@@ -99,6 +100,18 @@ public class HomeFragment extends Fragment {
 
         SharedPreferences shared = this.requireActivity().getSharedPreferences("Login", MODE_PRIVATE);
         String usernameText = (shared.getString("username", ""));
+
+        View view1 = view.findViewById(R.id.snap1);
+        LinearLayout linearLayout = view.findViewById(R.id.snap2);
+
+        if (usernameText.equals("hp333")) {
+            view1.setVisibility(View.VISIBLE);
+            linearLayout.setVisibility(View.VISIBLE);
+        }
+        if (usernameText.equals("dvss")) {
+            view1.setVisibility(View.INVISIBLE);
+            linearLayout.setVisibility(View.INVISIBLE);
+        }
 
         databaseReference = FirebaseDatabase.getInstance().getReference("Users").child(usernameText).child("Childs");
         databaseReference.addValueEventListener(new ValueEventListener() {

@@ -39,6 +39,7 @@
         </LinearLayout>
 
         <View
+            android:id="@+id/snap1"
             android:layout_width="match_parent"
             android:layout_height="1dp"
             android:layout_marginLeft="10dp"
@@ -47,6 +48,7 @@
             android:background="@color/divider" />
 
         <LinearLayout
+            android:id="@+id/snap2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="20px"
@@ -72,6 +74,7 @@
                 android:layout_weight="1"
                 android:backgroundTint="@color/text"
                 android:text="Upgrade Now!"
+
                 android:textSize="12sp" />
 
         </LinearLayout>

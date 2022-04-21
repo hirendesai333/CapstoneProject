@@ -144,19 +144,6 @@
                 android:text="Update Profile"
                 android:textSize="12sp" />
 
-            <Button
-                android:id="@+id/logoutBtn"
-                android:layout_width="200dp"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal"
-                android:layout_marginTop="10dp"
-                android:backgroundTint="@color/text"
-                android:drawableEnd="@drawable/logout"
-                android:drawableTint="@color/white"
-                android:padding="8dp"
-                android:text="Log Out"
-                android:textSize="12sp" />
-
         </LinearLayout>
 
     </LinearLayout>

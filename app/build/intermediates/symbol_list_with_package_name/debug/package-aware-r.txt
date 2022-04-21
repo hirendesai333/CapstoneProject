@@ -2589,13 +2589,16 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable account
 drawable applogo
 drawable apps
 drawable avd_hide_password
 drawable avd_show_password
+drawable averageactivity
 drawable back
 drawable bg_txt_password
 drawable bg_txt_username
+drawable blur
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -2626,6 +2629,7 @@ drawable common_google_signin_btn_text_light
 drawable common_google_signin_btn_text_light_focused
 drawable common_google_signin_btn_text_light_normal
 drawable common_google_signin_btn_text_light_normal_background
+drawable contact
 drawable darklogo
 drawable default_edit_text_background
 drawable design_fab_background
@@ -2634,6 +2638,7 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable diamond
+drawable export
 drawable eye
 drawable facebook
 drawable forward
@@ -2657,6 +2662,7 @@ drawable ic_mtrl_chip_close_circle
 drawable instagram
 drawable location
 drawable logo
+drawable logosnap
 drawable logothree
 drawable logotwo
 drawable logout
@@ -2707,6 +2713,7 @@ drawable notifications
 drawable notify_panel_notification_icon_bg
 drawable phone
 drawable plus
+drawable premium
 drawable profile
 drawable pubg
 drawable report
@@ -2714,6 +2721,7 @@ drawable reports
 drawable rounded_corner
 drawable settings
 drawable snapchat
+drawable support
 drawable teen
 drawable test_custom_background
 drawable test_level_drawable
@@ -2744,6 +2752,7 @@ id SYM
 id TOP_END
 id TOP_START
 id aboutUs
+id aboutUsCard
 id accelerate
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
@@ -2778,6 +2787,7 @@ id accessibility_custom_action_6
 id accessibility_custom_action_7
 id accessibility_custom_action_8
 id accessibility_custom_action_9
+id accountCv
 id action0
 id actionDown
 id actionDownUp
@@ -2831,6 +2841,7 @@ id beginOnFirstDraw
 id beginning
 id bestChoice
 id blocking
+id blurImg
 id bottom
 id bottomAppBar
 id bottomNavigaitonView
@@ -2883,6 +2894,7 @@ id collapseActionView
 id compress
 id confirm_button
 id constraint
+id contactCard
 id container
 id content
 id contentPanel
@@ -2916,6 +2928,7 @@ id disableIntraAutoTransition
 id disablePostScroll
 id disableScroll
 id disjoint
+id downloadBtn
 id dragAnticlockwise
 id dragClockwise
 id dragDown
@@ -2932,6 +2945,7 @@ id easeInOut
 id easeOut
 id east
 id edit_query
+id edit_text
 id edittext_dropdown_editable
 id edittext_dropdown_noneditable
 id elastic
@@ -3104,6 +3118,7 @@ id none
 id normal
 id north
 id notificationBtn
+id notificationDv
 id notification_background
 id notification_main_column
 id notification_main_column_container
@@ -3129,6 +3144,7 @@ id percent
 id pin
 id position
 id postLayout
+id premiumAccount
 id pressed
 id profile
 id progress_circular
@@ -3137,6 +3153,7 @@ id radio
 id ratio
 id rectangles
 id registerBtn
+id reportImg
 id reports
 id reverseSawtooth
 id right
@@ -3145,6 +3162,7 @@ id rightToLeft
 id rightTop
 id right_icon
 id right_side
+id rootView
 id rounded
 id row_index_key
 id save_non_transition_alpha
@@ -3170,6 +3188,9 @@ id search_voice_btn
 id select_dialog_listview
 id selected
 id selection_type
+id setAppLimit
+id setGameLimit
+id setLimit
 id settings
 id sharedValueSet
 id sharedValueUnset
@@ -3186,6 +3207,8 @@ id slide
 id snackbar_action
 id snackbar_text
 id snap
+id snap1
+id snap2
 id snapMargins
 id south
 id spacer
@@ -3389,6 +3412,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout about_label
 layout activity_add_profile
 layout activity_child
 layout activity_credentials
@@ -3397,9 +3421,11 @@ layout activity_notification
 layout activity_splash
 layout activity_upgrade_plan
 layout alert_label_editor
+layout alert_limit
 layout bottom_sheet_dialog_layout
 layout cnb_horizontal_menu_item
 layout cnb_vertical_menu_item
+layout contact_label
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3512,6 +3538,7 @@ layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
 layout upgrade_label_editor
+layout upgrade_lable
 menu example_menu
 menu example_menu2
 menu navigation_menu
@@ -3674,6 +3701,7 @@ string plansText
 string project_id
 string search_menu_title
 string status_bar_notification_info_overflow
+string tag
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow
@@ -4014,6 +4042,7 @@ style RtlOverlay_Widget_AppCompat_SearchView_MagIcon
 style RtlUnderlay_Widget_AppCompat_ActionButton
 style RtlUnderlay_Widget_AppCompat_ActionButton_Overflow
 style ShapeAppearance
+style ShapeAppearance_App_SmallComponent
 style ShapeAppearance_M3_Sys_Shape_Corner_ExtraLarge
 style ShapeAppearance_M3_Sys_Shape_Corner_ExtraLarge_Top
 style ShapeAppearance_M3_Sys_Shape_Corner_ExtraSmall

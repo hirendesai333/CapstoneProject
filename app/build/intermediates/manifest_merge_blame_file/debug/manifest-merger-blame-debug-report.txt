@@ -6,161 +6,167 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="26"
-8-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml
+8-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml
+9-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml
 10
-11    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
-12    <!-- <uses-sdk android:minSdkVersion="14"/> -->
-13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-13-->[com.google.firebase:firebase-database:20.0.4] C:\Users\admin\.gradle\caches\transforms-3\89c0e7bceaff940f2a31729a92b40ccc\transformed\firebase-database-20.0.4\AndroidManifest.xml:25:5-79
-13-->[com.google.firebase:firebase-database:20.0.4] C:\Users\admin\.gradle\caches\transforms-3\89c0e7bceaff940f2a31729a92b40ccc\transformed\firebase-database-20.0.4\AndroidManifest.xml:25:22-76
-14    <uses-permission android:name="android.permission.INTERNET" />
-14-->[com.google.firebase:firebase-database:20.0.4] C:\Users\admin\.gradle\caches\transforms-3\89c0e7bceaff940f2a31729a92b40ccc\transformed\firebase-database-20.0.4\AndroidManifest.xml:26:5-67
-14-->[com.google.firebase:firebase-database:20.0.4] C:\Users\admin\.gradle\caches\transforms-3\89c0e7bceaff940f2a31729a92b40ccc\transformed\firebase-database-20.0.4\AndroidManifest.xml:26:22-64
-15
-16    <application
-16-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:5:5-42:19
-17        android:allowBackup="true"
-17-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:6:9-35
-18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-18-->[androidx.core:core:1.7.0] C:\Users\admin\.gradle\caches\transforms-3\4a73645463199b9fea916370cbff35e3\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
-19        android:debuggable="true"
-20        android:extractNativeLibs="false"
-21        android:icon="@drawable/darklogo"
-21-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:7:9-42
-22        android:label="@string/app_name"
-22-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:8:9-41
-23        android:roundIcon="@drawable/darklogo"
-23-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:9:9-47
-24        android:supportsRtl="true"
-24-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:10:9-35
-25        android:testOnly="true"
-26        android:theme="@style/Theme.CapstoneProject" >
-26-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:11:9-53
-27        <activity
-27-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:12:9-14:40
-28            android:name="com.example.capstoneproject.Activities.UpgradePlanActivity"
-28-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:13:13-59
-29            android:exported="false" />
-29-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:14:13-37
-30        <activity
-30-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:15:9-23:20
-31            android:name="com.example.capstoneproject.Activities.SplashActivity"
-31-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:16:13-54
-32            android:exported="true" >
-32-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:17:13-36
-33            <intent-filter>
-33-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:18:13-22:29
-34                <action android:name="android.intent.action.MAIN" />
-34-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:19:17-69
-34-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:19:25-66
-35
-36                <category android:name="android.intent.category.LAUNCHER" />
-36-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:21:17-77
-36-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:21:27-74
-37            </intent-filter>
-38        </activity>
-39        <activity
-39-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:24:9-28:20
-40            android:name="com.example.capstoneproject.Activities.MainActivity"
-40-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:25:13-52
-41            android:exported="true" >
-41-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:26:13-36
-42        </activity>
-43        <activity
-43-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:29:9-32:40
-44            android:name="com.example.capstoneproject.Activities.CredentialsActivity"
-44-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:30:13-59
-45            android:exported="true"
-45-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:31:13-36
-46            android:noHistory="true" />
-46-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:32:13-37
-47        <activity
-47-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:33:9-35:40
-48            android:name="com.example.capstoneproject.Activities.AddProfileActivity"
-48-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:34:13-58
-49            android:exported="false" />
-49-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:35:13-37
-50        <activity
-50-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:36:9-38:40
-51            android:name="com.example.capstoneproject.Activities.NotificationActivity"
-51-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:37:13-60
-52            android:exported="false" />
-52-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:38:13-37
-53        <activity
-53-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:39:9-41:39
-54            android:name="com.example.capstoneproject.Activities.ChildActivity"
-54-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:40:13-53
-55            android:exported="true" />
-55-->C:\Users\admin\Desktop\CP Term 4\CAPSTONE DEVELOPMENT\CapstoneProject\app\src\main\AndroidManifest.xml:41:13-36
-56
-57        <service
-57-->[com.google.firebase:firebase-database:20.0.4] C:\Users\admin\.gradle\caches\transforms-3\89c0e7bceaff940f2a31729a92b40ccc\transformed\firebase-database-20.0.4\AndroidManifest.xml:29:9-35:19
-58            android:name="com.google.firebase.components.ComponentDiscoveryService"
-58-->[com.google.firebase:firebase-database:20.0.4] C:\Users\admin\.gradle\caches\transforms-3\89c0e7bceaff940f2a31729a92b40ccc\transformed\firebase-database-20.0.4\AndroidManifest.xml:30:13-84
-59            android:directBootAware="true"
-59-->[com.google.firebase:firebase-common:20.1.0] C:\Users\admin\.gradle\caches\transforms-3\28ee830cf7e266aa1eae9bf476661dde\transformed\firebase-common-20.1.0\AndroidManifest.xml:35:13-43
-60            android:exported="false" >
-60-->[com.google.firebase:firebase-database:20.0.4] C:\Users\admin\.gradle\caches\transforms-3\89c0e7bceaff940f2a31729a92b40ccc\transformed\firebase-database-20.0.4\AndroidManifest.xml:31:13-37
-61            <meta-data
-61-->[com.google.firebase:firebase-database:20.0.4] C:\Users\admin\.gradle\caches\transforms-3\89c0e7bceaff940f2a31729a92b40ccc\transformed\firebase-database-20.0.4\AndroidManifest.xml:32:13-34:85
-62                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-62-->[com.google.firebase:firebase-database:20.0.4] C:\Users\admin\.gradle\caches\transforms-3\89c0e7bceaff940f2a31729a92b40ccc\transformed\firebase-database-20.0.4\AndroidManifest.xml:33:17-109
-63                android:value="com.google.firebase.components.ComponentRegistrar" />
-63-->[com.google.firebase:firebase-database:20.0.4] C:\Users\admin\.gradle\caches\transforms-3\89c0e7bceaff940f2a31729a92b40ccc\transformed\firebase-database-20.0.4\AndroidManifest.xml:34:17-82
-64        </service>
-65
-66        <activity
-66-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\admin\.gradle\caches\transforms-3\480ced47afd118d4f32a0bbd509ea0d1\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
-67            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-67-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\admin\.gradle\caches\transforms-3\480ced47afd118d4f32a0bbd509ea0d1\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
-68            android:exported="false"
-68-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\admin\.gradle\caches\transforms-3\480ced47afd118d4f32a0bbd509ea0d1\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
-69            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-69-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\admin\.gradle\caches\transforms-3\480ced47afd118d4f32a0bbd509ea0d1\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
-70
-71        <provider
-71-->[com.google.firebase:firebase-common:20.1.0] C:\Users\admin\.gradle\caches\transforms-3\28ee830cf7e266aa1eae9bf476661dde\transformed\firebase-common-20.1.0\AndroidManifest.xml:26:9-31:39
-72            android:name="com.google.firebase.provider.FirebaseInitProvider"
-72-->[com.google.firebase:firebase-common:20.1.0] C:\Users\admin\.gradle\caches\transforms-3\28ee830cf7e266aa1eae9bf476661dde\transformed\firebase-common-20.1.0\AndroidManifest.xml:27:13-77
-73            android:authorities="com.example.capstoneproject.firebaseinitprovider"
-73-->[com.google.firebase:firebase-common:20.1.0] C:\Users\admin\.gradle\caches\transforms-3\28ee830cf7e266aa1eae9bf476661dde\transformed\firebase-common-20.1.0\AndroidManifest.xml:28:13-72
-74            android:directBootAware="true"
-74-->[com.google.firebase:firebase-common:20.1.0] C:\Users\admin\.gradle\caches\transforms-3\28ee830cf7e266aa1eae9bf476661dde\transformed\firebase-common-20.1.0\AndroidManifest.xml:29:13-43
-75            android:exported="false"
-75-->[com.google.firebase:firebase-common:20.1.0] C:\Users\admin\.gradle\caches\transforms-3\28ee830cf7e266aa1eae9bf476661dde\transformed\firebase-common-20.1.0\AndroidManifest.xml:30:13-37
-76            android:initOrder="100" />
-76-->[com.google.firebase:firebase-common:20.1.0] C:\Users\admin\.gradle\caches\transforms-3\28ee830cf7e266aa1eae9bf476661dde\transformed\firebase-common-20.1.0\AndroidManifest.xml:31:13-36
-77
-78        <meta-data
-78-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\admin\.gradle\caches\transforms-3\f8f5c76e46a42f0734a947b09b961cf5\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
-79            android:name="com.google.android.gms.version"
-79-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\admin\.gradle\caches\transforms-3\f8f5c76e46a42f0734a947b09b961cf5\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
-80            android:value="@integer/google_play_services_version" />
-80-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\admin\.gradle\caches\transforms-3\f8f5c76e46a42f0734a947b09b961cf5\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
-81
-82        <provider
-82-->[androidx.emoji2:emoji2:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\d7d27c68601a04d3e1bdd881f9c325b2\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-83            android:name="androidx.startup.InitializationProvider"
-83-->[androidx.emoji2:emoji2:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\d7d27c68601a04d3e1bdd881f9c325b2\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-84            android:authorities="com.example.capstoneproject.androidx-startup"
-84-->[androidx.emoji2:emoji2:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\d7d27c68601a04d3e1bdd881f9c325b2\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-85            android:exported="false" >
-85-->[androidx.emoji2:emoji2:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\d7d27c68601a04d3e1bdd881f9c325b2\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-86            <meta-data
-86-->[androidx.emoji2:emoji2:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\d7d27c68601a04d3e1bdd881f9c325b2\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-87                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-87-->[androidx.emoji2:emoji2:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\d7d27c68601a04d3e1bdd881f9c325b2\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-88                android:value="androidx.startup" />
-88-->[androidx.emoji2:emoji2:1.0.0] C:\Users\admin\.gradle\caches\transforms-3\d7d27c68601a04d3e1bdd881f9c325b2\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
-89            <meta-data
-89-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\admin\.gradle\caches\transforms-3\7daa621a439079be7472f59471227879\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-90                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-90-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\admin\.gradle\caches\transforms-3\7daa621a439079be7472f59471227879\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-91                android:value="androidx.startup" />
-91-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\admin\.gradle\caches\transforms-3\7daa621a439079be7472f59471227879\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-92        </provider>
-93    </application>
-94
-95</manifest>
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:6:5-80
+12-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:6:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:7:5-81
+13-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:7:22-78
+14
+15    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+16    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[com.google.firebase:firebase-database:20.0.4] C:\Users\divye\.gradle\caches\transforms-3\89c0e7bceaff940f2a31729a92b40ccc\transformed\firebase-database-20.0.4\AndroidManifest.xml:25:5-79
+17-->[com.google.firebase:firebase-database:20.0.4] C:\Users\divye\.gradle\caches\transforms-3\89c0e7bceaff940f2a31729a92b40ccc\transformed\firebase-database-20.0.4\AndroidManifest.xml:25:22-76
+18
+19    <application
+19-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:9:5-46:19
+20        android:allowBackup="true"
+20-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:10:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.7.0] C:\Users\divye\.gradle\caches\transforms-3\4a73645463199b9fea916370cbff35e3\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:icon="@drawable/logosnap"
+24-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:11:9-42
+25        android:label="@string/app_name"
+25-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:12:9-41
+26        android:roundIcon="@drawable/logosnap"
+26-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:13:9-47
+27        android:supportsRtl="true"
+27-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:14:9-35
+28        android:theme="@style/Theme.CapstoneProject" >
+28-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:15:9-53
+29        <activity
+29-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:16:9-18:40
+30            android:name="com.example.capstoneproject.Activities.UpgradePlanActivity"
+30-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:17:13-59
+31            android:exported="false" />
+31-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:18:13-37
+32        <activity
+32-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:19:9-27:20
+33            android:name="com.example.capstoneproject.Activities.SplashActivity"
+33-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:20:13-54
+34            android:exported="true" >
+34-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:21:13-36
+35            <intent-filter>
+35-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:22:13-26:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:23:17-69
+36-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:23:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:25:17-77
+38-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:25:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity
+41-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:28:9-32:20
+42            android:name="com.example.capstoneproject.Activities.MainActivity"
+42-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:29:13-52
+43            android:exported="true" >
+43-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:30:13-36
+44        </activity>
+45        <activity
+45-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:33:9-36:40
+46            android:name="com.example.capstoneproject.Activities.CredentialsActivity"
+46-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:34:13-59
+47            android:exported="true"
+47-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:35:13-36
+48            android:noHistory="true" />
+48-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:36:13-37
+49        <activity
+49-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:37:9-39:40
+50            android:name="com.example.capstoneproject.Activities.AddProfileActivity"
+50-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:38:13-58
+51            android:exported="false" />
+51-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:39:13-37
+52        <activity
+52-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:40:9-42:40
+53            android:name="com.example.capstoneproject.Activities.NotificationActivity"
+53-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:41:13-60
+54            android:exported="false" />
+54-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:42:13-37
+55        <activity
+55-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:43:9-45:39
+56            android:name="com.example.capstoneproject.Activities.ChildActivity"
+56-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:44:13-53
+57            android:exported="true" />
+57-->C:\Users\divye\Desktop\CapstoneFinal\CapstoneProject\app\src\main\AndroidManifest.xml:45:13-36
+58
+59        <service
+59-->[com.google.firebase:firebase-database:20.0.4] C:\Users\divye\.gradle\caches\transforms-3\89c0e7bceaff940f2a31729a92b40ccc\transformed\firebase-database-20.0.4\AndroidManifest.xml:29:9-35:19
+60            android:name="com.google.firebase.components.ComponentDiscoveryService"
+60-->[com.google.firebase:firebase-database:20.0.4] C:\Users\divye\.gradle\caches\transforms-3\89c0e7bceaff940f2a31729a92b40ccc\transformed\firebase-database-20.0.4\AndroidManifest.xml:30:13-84
+61            android:directBootAware="true"
+61-->[com.google.firebase:firebase-common:20.1.0] C:\Users\divye\.gradle\caches\transforms-3\28ee830cf7e266aa1eae9bf476661dde\transformed\firebase-common-20.1.0\AndroidManifest.xml:35:13-43
+62            android:exported="false" >
+62-->[com.google.firebase:firebase-database:20.0.4] C:\Users\divye\.gradle\caches\transforms-3\89c0e7bceaff940f2a31729a92b40ccc\transformed\firebase-database-20.0.4\AndroidManifest.xml:31:13-37
+63            <meta-data
+63-->[com.google.firebase:firebase-database:20.0.4] C:\Users\divye\.gradle\caches\transforms-3\89c0e7bceaff940f2a31729a92b40ccc\transformed\firebase-database-20.0.4\AndroidManifest.xml:32:13-34:85
+64                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+64-->[com.google.firebase:firebase-database:20.0.4] C:\Users\divye\.gradle\caches\transforms-3\89c0e7bceaff940f2a31729a92b40ccc\transformed\firebase-database-20.0.4\AndroidManifest.xml:33:17-109
+65                android:value="com.google.firebase.components.ComponentRegistrar" />
+65-->[com.google.firebase:firebase-database:20.0.4] C:\Users\divye\.gradle\caches\transforms-3\89c0e7bceaff940f2a31729a92b40ccc\transformed\firebase-database-20.0.4\AndroidManifest.xml:34:17-82
+66        </service>
+67
+68        <activity
+68-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\divye\.gradle\caches\transforms-3\480ced47afd118d4f32a0bbd509ea0d1\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+69            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+69-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\divye\.gradle\caches\transforms-3\480ced47afd118d4f32a0bbd509ea0d1\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+70            android:exported="false"
+70-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\divye\.gradle\caches\transforms-3\480ced47afd118d4f32a0bbd509ea0d1\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+71            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+71-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\divye\.gradle\caches\transforms-3\480ced47afd118d4f32a0bbd509ea0d1\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+72
+73        <provider
+73-->[com.google.firebase:firebase-common:20.1.0] C:\Users\divye\.gradle\caches\transforms-3\28ee830cf7e266aa1eae9bf476661dde\transformed\firebase-common-20.1.0\AndroidManifest.xml:26:9-31:39
+74            android:name="com.google.firebase.provider.FirebaseInitProvider"
+74-->[com.google.firebase:firebase-common:20.1.0] C:\Users\divye\.gradle\caches\transforms-3\28ee830cf7e266aa1eae9bf476661dde\transformed\firebase-common-20.1.0\AndroidManifest.xml:27:13-77
+75            android:authorities="com.example.capstoneproject.firebaseinitprovider"
+75-->[com.google.firebase:firebase-common:20.1.0] C:\Users\divye\.gradle\caches\transforms-3\28ee830cf7e266aa1eae9bf476661dde\transformed\firebase-common-20.1.0\AndroidManifest.xml:28:13-72
+76            android:directBootAware="true"
+76-->[com.google.firebase:firebase-common:20.1.0] C:\Users\divye\.gradle\caches\transforms-3\28ee830cf7e266aa1eae9bf476661dde\transformed\firebase-common-20.1.0\AndroidManifest.xml:29:13-43
+77            android:exported="false"
+77-->[com.google.firebase:firebase-common:20.1.0] C:\Users\divye\.gradle\caches\transforms-3\28ee830cf7e266aa1eae9bf476661dde\transformed\firebase-common-20.1.0\AndroidManifest.xml:30:13-37
+78            android:initOrder="100" />
+78-->[com.google.firebase:firebase-common:20.1.0] C:\Users\divye\.gradle\caches\transforms-3\28ee830cf7e266aa1eae9bf476661dde\transformed\firebase-common-20.1.0\AndroidManifest.xml:31:13-36
+79
+80        <meta-data
+80-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\divye\.gradle\caches\transforms-3\f8f5c76e46a42f0734a947b09b961cf5\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+81            android:name="com.google.android.gms.version"
+81-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\divye\.gradle\caches\transforms-3\f8f5c76e46a42f0734a947b09b961cf5\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+82            android:value="@integer/google_play_services_version" />
+82-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\divye\.gradle\caches\transforms-3\f8f5c76e46a42f0734a947b09b961cf5\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+83
+84        <provider
+84-->[androidx.emoji2:emoji2:1.0.0] C:\Users\divye\.gradle\caches\transforms-3\d7d27c68601a04d3e1bdd881f9c325b2\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+85            android:name="androidx.startup.InitializationProvider"
+85-->[androidx.emoji2:emoji2:1.0.0] C:\Users\divye\.gradle\caches\transforms-3\d7d27c68601a04d3e1bdd881f9c325b2\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+86            android:authorities="com.example.capstoneproject.androidx-startup"
+86-->[androidx.emoji2:emoji2:1.0.0] C:\Users\divye\.gradle\caches\transforms-3\d7d27c68601a04d3e1bdd881f9c325b2\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+87            android:exported="false" >
+87-->[androidx.emoji2:emoji2:1.0.0] C:\Users\divye\.gradle\caches\transforms-3\d7d27c68601a04d3e1bdd881f9c325b2\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+88            <meta-data
+88-->[androidx.emoji2:emoji2:1.0.0] C:\Users\divye\.gradle\caches\transforms-3\d7d27c68601a04d3e1bdd881f9c325b2\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+89                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+89-->[androidx.emoji2:emoji2:1.0.0] C:\Users\divye\.gradle\caches\transforms-3\d7d27c68601a04d3e1bdd881f9c325b2\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+90                android:value="androidx.startup" />
+90-->[androidx.emoji2:emoji2:1.0.0] C:\Users\divye\.gradle\caches\transforms-3\d7d27c68601a04d3e1bdd881f9c325b2\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+91            <meta-data
+91-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\divye\.gradle\caches\transforms-3\7daa621a439079be7472f59471227879\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+92                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+92-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\divye\.gradle\caches\transforms-3\7daa621a439079be7472f59471227879\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+93                android:value="androidx.startup" />
+93-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\divye\.gradle\caches\transforms-3\7daa621a439079be7472f59471227879\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+94        </provider>
+95    </application>
+96
+97</manifest>

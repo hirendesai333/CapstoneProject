@@ -40,7 +40,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/divider"
-                android:fontFamily="@font/asap_semibold"
+                android:fontFamily="@font/quicksand_regular"
                 android:hint="Your Username"
                 android:textSize="16sp" />
 
@@ -58,7 +58,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/divider"
-                android:fontFamily="@font/asap_semibold"
+                android:fontFamily="@font/quicksand_regular"
                 android:hint="Your Email Address"
                 android:textSize="16sp" />
 
@@ -76,7 +76,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/divider"
-                android:fontFamily="@font/asap_semibold"
+                android:fontFamily="@font/quicksand_regular"
                 android:inputType="textPassword"
                 android:textSize="16sp" />
 
@@ -94,7 +94,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:backgroundTint="@color/divider"
-                android:fontFamily="@font/asap_semibold"
+                android:fontFamily="@font/quicksand_regular"
                 android:inputType="textPassword"
                 android:textSize="16sp" />
 

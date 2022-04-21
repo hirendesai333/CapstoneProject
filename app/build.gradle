@@ -50,4 +50,9 @@ dependencies {
 
     implementation 'com.github.isradeleon:Notify-Android:1.0.4' //notification
 
+
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+
+
+
 }

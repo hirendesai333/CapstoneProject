@@ -159,6 +159,7 @@
             tools:ignore="RtlCompat" />
 
         <TextView
+            android:id="@+id/setAppLimit"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -249,6 +250,7 @@
             tools:ignore="RtlCompat" />
 
         <TextView
+            android:id="@+id/setGameLimit"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"

@@ -13,6 +13,7 @@ import android.view.View;
 import com.example.capstoneproject.Fragments.EditProfileFragment;
 import com.example.capstoneproject.Fragments.HomeFragment;
 import com.example.capstoneproject.Fragments.ReportFragment;
+import com.example.capstoneproject.Fragments.SettingsFragment;
 import com.example.capstoneproject.R;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
@@ -33,6 +34,8 @@ public class MainActivity extends AppCompatActivity {
         HomeFragment homeFragment = new HomeFragment();
         EditProfileFragment editProfileFragment = new EditProfileFragment();
         ReportFragment reportFragment = new ReportFragment();
+        SettingsFragment settingsFragment = new SettingsFragment();
+
         replaceFragment(homeFragment);
 
         addProfileButton = findViewById(R.id.fab);
@@ -54,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
                     bottomNavigationView.getMenu().findItem(R.id.nav_profile).setChecked(true);
                     break;
                 case R.id.nav_setting:
-                    replaceFragment(editProfileFragment);
+                    replaceFragment(settingsFragment);
                     bottomNavigationView.getMenu().findItem(R.id.nav_setting).setChecked(true);
                     break;
             }

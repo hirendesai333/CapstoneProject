@@ -59,31 +59,8 @@ public class AddProfileActivity extends AppCompatActivity {
         addChild.setOnClickListener(view -> {
             usernameStr = username.getText().toString();
             emailStr = email.getText().toString();
-
-            DatabaseReference root = FirebaseDatabase.getInstance().getReference();
-            DatabaseReference users = root.child("ChildUsers");
-            users.addListenerForSingleValueEvent(new ValueEventListener() {
-                @Override
-                public void onDataChange(@NonNull DataSnapshot snapshot) {
-                    if (snapshot.child(usernameStr).exists()) {
-                        // run some code
-                        addDataToFirebase(usernameStr, emailStr);
-                        showNofitication();
-                        startAnotherActivity(MainActivity.class);
-                    } else {
-                        Toast.makeText(AddProfileActivity.this,
-                                usernameStr + " does not exists in the database please try again!",
-                                Toast.LENGTH_SHORT).show();
-                    }
-                }
-
-                @Override
-                public void onCancelled(@NonNull DatabaseError databaseError) {
-
-                }
-            });
+            addDataToFirebase(usernameStr, emailStr);
         });
-
     }
 
     public void showNofitication() {

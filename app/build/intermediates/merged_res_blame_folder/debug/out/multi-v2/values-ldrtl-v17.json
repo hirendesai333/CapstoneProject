@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\admin\\Desktop\\CP Term 4\\CAPSTONE DEVELOPMENT\\CapstoneProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+            "outputFile": "C:\\Users\\divye\\Desktop\\CapstoneFinal\\CapstoneProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldrtl-v17\\values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-3\\c9895830927df6cae11c8a749cd54e9b\\transformed\\material-1.6.0-beta01\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "source": "C:\\Users\\divye\\.gradle\\caches\\transforms-3\\c9895830927df6cae11c8a749cd54e9b\\transformed\\material-1.6.0-beta01\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
